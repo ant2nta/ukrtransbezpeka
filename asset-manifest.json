@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ant2nta/ukrtransbezpeka/static/css/main.265f4914.css",
+    "main.js": "/ant2nta/ukrtransbezpeka/static/js/main.2f8545d0.js",
+    "static/media/logo.png": "/ant2nta/ukrtransbezpeka/static/media/logo.7891eff76d175bfb46c4.png",
+    "index.html": "/ant2nta/ukrtransbezpeka/index.html",
+    "main.265f4914.css.map": "/ant2nta/ukrtransbezpeka/static/css/main.265f4914.css.map",
+    "main.2f8545d0.js.map": "/ant2nta/ukrtransbezpeka/static/js/main.2f8545d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.265f4914.css",
+    "static/js/main.2f8545d0.js"
+  ]
+}
