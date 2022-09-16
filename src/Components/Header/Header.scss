@@ -1,0 +1,42 @@
+.header {
+  height: 60px;
+  background-color: #fff;
+  padding: 5px 40px;
+  display: flex;
+  justify-content: space-between;
+
+  &__logo {
+    max-height: 100%;
+  }
+
+  button {
+    border: none;
+  }
+
+  &__right {
+    display: flex;
+  }
+
+  &__list {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 80px;
+  }
+
+  &__item {
+    text-align: center;
+    display: inline-block;
+  }
+
+  &__line {
+    width: 1px;
+    height: 100%;
+    background-color: #000;
+    margin-right: 15px;
+  }
+
+  &__is-active {
+    background-color: #F2F2F2;
+  }
+}
