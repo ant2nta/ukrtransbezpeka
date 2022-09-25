@@ -4,6 +4,10 @@
   align-items: center;
   height: 100vh;
 
+  &__demo {
+    font-weight: bold;
+  }
+
   &__form {
     display: flex;
     flex-direction: column;

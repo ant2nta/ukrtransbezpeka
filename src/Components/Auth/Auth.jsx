@@ -26,6 +26,7 @@ const Auth = ({ handleLogin }) => {
         />
 
         <p>Для роботи із сайтом потрібно авторизуватись</p>
+        <p>[Демо: логін <span className='auth__demo'>admin</span>, пароль <span className='auth__demo'>1234</span>]</p>
 
         <div className="auth__info">
           <div className="auth__input">
